@@ -23,5 +23,5 @@
 
 📫 You can reach me at siranjeevis134@gmail.com if you have any questions or would like to connect.
 
-⚡ Fun fact: In addition to programming languages like Python, Bash, and Groovy, I'm also learning about cloud providers like AWS and GCP, infrastructure tools like Terraform and Ansible, containerization tools like Docker and Kubernetes, and automation tools like Jenkins and CircleCI.
+📖 Learning : In addition to programming languages like Python, Bash, and Shell Scropting, I'm also learning about cloud providers like AWS, Azure and GCP, infrastructure tools like Terraform and Ansible, containerization tools like Docker and Kubernetes, and automation tools like Jenkins.
 
