@@ -25,3 +25,13 @@
 
 📖 Learning : In addition to programming languages like Python, Bash, and Shell Scropting, I'm also learning about cloud providers like AWS, Azure and GCP, infrastructure tools like Terraform and Ansible, containerization tools like Docker and Kubernetes, and automation tools like Jenkins.
 
+
+
+
+
+      
+    
+
+
+      
+    
