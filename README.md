@@ -1,6 +1,7 @@
-                                      Hi 👋, I'm Siranjeevi S 🌀 from India 🇮🇳
+                                                        Hi 👋, I'm Siranjeevi S 🌀 from India 🇮🇳
+                                                        
 
-🏢 I'm currently a Tester looking to transition into a DevOps role, with a passion for improving software quality and efficiency through automation and DevOps practices.
+🏢 I'm currently a Software Tester looking to transition into a DevOps role, with a passion for improving software quality and efficiency through automation and DevOps practices.
 
 🌱 Currently, I'm focusing on learning the latest DevOps tools and practices, including infrastructure as code, containerization, and automation, while building on my existing testing skills.
 
