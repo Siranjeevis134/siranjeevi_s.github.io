@@ -1,4 +1,5 @@
-                                                  <h1>Hi 👋, I'm Siranjeevi S 🌀 from India 🇮🇳</h1>
+                                                 <h1 style="font-size: 36px;">Hi 👋, I'm Siranjeevi S 🌀 from India 🇮🇳</h1>
+
                                                         
 
 🏢 I'm currently a Software Tester looking to transition into a DevOps role, with a passion for improving software quality and efficiency through automation and DevOps practices.
