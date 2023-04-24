@@ -13,11 +13,11 @@ _🚀 I'm dedicated to innovation and improvement, and I believe that DevOps pra
 
 _🔧 I'm passionate about tooling and automation, and I believe that automation is the key to improving software quality and efficiency._
 
-_🧠 I'm a problem solver at heart, and I enjoy using critical thinking and analytical skills to solve complex problems and challenges.
-_
-💡 As a hashtag that describes me, I like to use **#QualityToDevOps** to emphasize my passion for software quality and the role that DevOps plays in ensuring that quality.
-_
-📝 I'm also building a portfolio of projects and writing articles to showcase my skills and experience in DevOps practices._
+_🧠 I'm a problem solver at heart, and I enjoy using critical thinking and analytical skills to solve complex problems and challenges._
+
+_💡 As a hashtag that describes me, I like to use **#QualityToDevOps** to emphasize my passion for software quality and the role that DevOps plays in ensuring that quality._
+
+_📝 I'm also building a portfolio of projects and writing articles to showcase my skills and experience in DevOps practices._
 
 _💬 Feel free to ask me about my experience with testing tools and practices, load testing, UAT, black box testing, as well as my journey into DevOps and the tools and skills I'm learning._
 
